@@ -6,16 +6,6 @@ A complete end-to-end NLP project for sentiment analysis on Twitter data, from p
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
 ![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)
 
-##  Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Performance](#model-performance)
-- [API Documentation](#api-documentation)
-- [Results](#results)
 
 ## Overview
 
